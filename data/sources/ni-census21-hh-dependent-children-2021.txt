@@ -1,0 +1,20 @@
+name: Households with dependent children
+long_name: 
+description: The households broken down into households with dependent children and not by Census 2021 Data Zone.
+publisher: NISRA
+metadata_url: https://build.nisra.gov.uk/en/custom/data?d=HOUSEHOLD&v=DZ21&v=HH_DEPENDENT_CHILDREN_IND 
+file_url: 
+spatial_coverage: Northern Ireland | GB | UK 
+spatial_scale: Census 2021 Data Zone
+timeframe: 
+  start: 
+  end: 
+publication_date: 2023-02-21
+update_frequency:
+license: 
+  license_name: OGLv3
+  license_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+tags: #demographic, #health
+note: 
+raw_filename: 
+cleaned_filename: 

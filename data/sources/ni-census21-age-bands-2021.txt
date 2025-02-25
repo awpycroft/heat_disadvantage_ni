@@ -1,0 +1,20 @@
+name: Age - 4 Categories
+long_name: 
+description: The population broken down into 4 age categories by Census 2021 Data Zone.
+publisher: NISRA
+metadata_url: https://build.nisra.gov.uk/en/custom/data?d=PEOPLE&v=DZ21&v=AGE_BAND_BROAD 
+file_url: 
+spatial_coverage: Northern Ireland | GB | UK 
+spatial_scale: Census 2021 Data Zone
+timeframe: 
+  start: 
+  end: 
+publication_date: 2023-02-21
+update_frequency:
+license: 
+  license_name: OGLv3
+  license_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+tags: #demographic, #health
+note: 
+raw_filename: 
+cleaned_filename: 

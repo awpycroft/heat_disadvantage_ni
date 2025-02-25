@@ -1,0 +1,20 @@
+name: Households tenure - 5 categories
+long_name: 
+description: The households broken down into households by the 5 housing tenure cateogries by Census 2021 Data Zone.
+publisher: NISRA
+metadata_url: https://build.nisra.gov.uk/en/custom/data?d=PEOPLE&v=DZ21&v=HH_TENURE_AGG5_PERS 
+file_url: 
+spatial_coverage: Northern Ireland | GB | UK 
+spatial_scale: Census 2021 Data Zone
+timeframe: 
+  start: 
+  end: 
+publication_date: 2023-02-21
+update_frequency:
+license: 
+  license_name: OGLv3
+  license_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+tags: #demographic, #health
+note: 
+raw_filename: 
+cleaned_filename: 
